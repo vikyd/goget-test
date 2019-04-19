@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"git.code.oa.com/viky-personal/goget-test/p01"
+	"github.com/vikyd/goget-test/p01"
 )
 
 func main() {
